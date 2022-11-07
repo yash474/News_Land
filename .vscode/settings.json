@@ -1,0 +1,6 @@
+{
+        "editor.autoIndent": "advanced",
+        "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+        "thunder-client.treeIndentation": 5,
+        "thunder-client.indentSize": 4
+}
