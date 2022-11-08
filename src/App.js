@@ -12,7 +12,7 @@ import {
 export default class App extends Component {
 
     page_size=18 ;
-    api_key = "0a1a554eeb5e447f8923637f1145558a";
+    api_key = process.env.REACT_APP_NEWS_API ;
     render() {
         return (
             <div>

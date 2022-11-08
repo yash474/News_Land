@@ -96,7 +96,7 @@ export default class News extends Component {
             <div className="container  my-3 ">
                 
                 {/* dynamic page heading change based on current page */}
-                <h1 className='text-center'>{this.props.category==='general'?"NewsLand - Trending News Of The Day !! " : `NewsLand - Trending ${this.props.category.charAt(0).toUpperCase()}${this.props.category.slice(1)} News Of The Day !!`}</h1>
+                <h1 className='text-center' style={{marginTop : "61px"}}>{this.props.category==='general'?"NewsLand - Trending News Of The Day !! " : `NewsLand - Trending ${this.props.category.charAt(0).toUpperCase()}${this.props.category.slice(1)} News Of The Day !!`}</h1>
 
                 {this.state.loading && <Spinner />}
                 <div className="row row-col-1 row-cols-md-3 ">
