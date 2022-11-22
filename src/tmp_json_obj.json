@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Abid Hussain",
+            "title": "Pakistan’s ex-PM Imran Khan shot in leg at protest march - Al Jazeera English",
+            "description": "Party official confirms former prime minister has been shot at a rally but is not in danger.",
+            "url": "https://www.aljazeera.com/news/2022/11/3/pakistans-ex-pm-imran-khan-injured-by-gunfire-during-long-march",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-03-at-3.06.16-PM.png?resize=1920%2C1440",
+            "publishedAt": "2022-11-03T12:05:52Z",
+            "content": "Islamabad, Pakistan Imran Khan, the former prime minister of Pakistan, has sustained a bullet injury in his leg after a gunman opened fire at a rally in Wazirabad.\r\nAzhar Mashwani, an official with K… [+1271 chars]"
+        }
+    ]
+}
